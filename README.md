@@ -1,10 +1,10 @@
 This is the Kernels Source Code.
 Fedurux (2024), By Red-Spirit.
 
-This is just a basic operating system with a command-line and keyboard and minimal cursor support. 
-It should be okay to just initlize itself, you dont need any external scripts as the kernel as of v1.0 does not support external libraries, though i am working on it.
+Fedurux(2024 Red Spirit) is a Free and Open Source Kernel, if you can please contribute to this Project as I will be releasing updates when I can but I dont have much time for stuff.
+Fedurux is mainly community owned, I share Fedurux with the Community of the Fedurux Developers.
 
-Everything i make for the kernel will be as minimal as possible, if you would like to improve the system by making it better and using it for your operating system or if you want to
-improve the source code for Fedurux message me on GitHub, my username is RedSpirit1.
+FCat-32 is being worked on and it is slowly being developed.
+Check Wiki for More Info on Kernel.
 
 Look at the Wiki On the Fedurux GitHub for Documentation.
